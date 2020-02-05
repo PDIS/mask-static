@@ -6,12 +6,12 @@ image: og.jpg
 歡迎您運用以下社群朋友開發的應用界面，了解即時的口罩供需情況：
 
 <a href="https://mask.goodideas-studio.com/"><img max-height="500px" max-width="500px" src="https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_75d80589edb4e4c8fc0c5a0cfe402f5e"></a>
-### <a href="https://mask.goodideas-studio.com/">口罩地圖 by GDG</a>
+### <a href="https://mask.goodideas-studio.com/">口罩地圖</a> by GDG @ 好想工作室
 
 ---
 
 <a href="https://kuro.tw/mask-map/"><img max-height="500px" max-width="500px" src="https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_74a89e4c15b95209aee65e89cb7496d7"></a>
-### <a href="https://kuro.tw/mask-map/">Leaflet map with 藥局資料</a>
+### <a href="https://kuro.tw/mask-map/">Leaflet map with 藥局資料</a> by kuro
 
 ---
 
@@ -26,7 +26,7 @@ image: og.jpg
 ---
 
 <a href="https://line.naver.jp/ti/p/@960iorjj"><img max-height="500px" max-width="500px" src="https://i.imgur.com/7nlL0nj.jpg"></a>
-### <a href="https://line.naver.jp/ti/p/@960iorjj">口罩哪裡買 (Line ChatBot)</a>
+### <a href="https://line.naver.jp/ti/p/@960iorjj">口罩哪裡買 (Line ChatBot)</a> by funtuan
 
 ---
 
@@ -44,6 +44,14 @@ image: og.jpg
 ---
 
 # <a href="https://maskcount.herokuapp.com/maps/">健保特約藥局與衛生所地圖</a> by <a href='https://github.com/KevinCayenne'>Kevin Chou</a>
+
+---
+
+# <a href="https://t.me/TWMaskFindBot">台灣口罩藥局查詢 (Telegram ChatBot)</a> by neo
+
+---
+
+# <a href="https://map.code6421.cc/">口罩地圖（目前位置半徑 5 公里的點）</a> by code6421
 
 ---
 ---
