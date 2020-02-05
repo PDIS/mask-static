@@ -36,8 +36,11 @@ image: og.jpg
 
 ---
 
-# 藥局口罩採購地圖 by <a href="https://kiang.github.io/" target="_blank">kiang</a>
-<a href="https://kiang.github.io/pharmacies/"><img max-height="500px" max-width="500px" src="http://kiang.github.io/pharmacies/og_image.png"></a>
+# <a href="https://kiang.github.io/pharmacies/">藥局口罩採購地圖</a> by <a href="https://kiang.github.io/" target="_blank">kiang</a>
+
+---
+
+# <a href="https://maskcount.herokuapp.com/maps/">健保特約藥局與衛生所地圖</a> by <a href='https://github.com/KevinCayenne'>Kevin Chou</a>
 
 ---
 
