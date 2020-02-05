@@ -1,3 +1,10 @@
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@TaiwanPDIS" />
+<meta property="og:url" content="https://mask.pdis.nat.gov.tw" />
+<meta property="og:title" content="口罩供需資訊平台" />
+<meta property="og:description" content="健保藥局哪裡有？口罩數量剩多少？歡迎您運用社群朋友開發的應用界面，了解即時的口罩供需情況。" />
+<meta property="og:image" content="https://repository-images.githubusercontent.com/238351202/f08cc000-4824-11ea-8cef-58ec04229fdc" />
+
 歡迎您運用以下社群朋友開發的應用界面，了解即時的口罩供需情況：
 
 ### 超商口罩地圖 by 好想工作室
