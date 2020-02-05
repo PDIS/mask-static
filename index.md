@@ -57,7 +57,9 @@ image: og.jpg
 
 # <a href="https://yasco.com.tw/tw/mask.asp">口罩供需即時資訊查詢</a> by 昭惠實業股份有限公司
 
-# <a href="https://www.arplanet.com.tw/download/">AR版健保特約藥局與鄉鎮衛生所</a>> by marq+
+---
+
+# <a href="https://www.arplanet.com.tw/download/">AR版健保特約藥局與鄉鎮衛生所</a> by marq+
 
 ---
 
@@ -65,6 +67,6 @@ image: og.jpg
 
 ---
 
-# <a href="https://page.line.me/vqv2007o">line@疾管家</a> by DeepQ
+# <a href="https://page.line.me/vqv2007o">疾管署LINE@「疾管家」</a> by DeepQ
 
 {% include footer.html %}
