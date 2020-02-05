@@ -57,8 +57,14 @@ image: og.jpg
 
 # <a href="https://yasco.com.tw/tw/mask.asp">口罩供需即時資訊查詢</a> by 昭惠實業股份有限公司
 
+# <a href="https://www.arplanet.com.tw/download/">AR版健保特約藥局與鄉鎮衛生所</a>> by marq+
+
 ---
 
 # <a href="https://line.me/ti/p/@kin5669r">高雄金城武 (Line ChatBot)</a> by Daniel Wang
+
+---
+
+# <a href="https://page.line.me/vqv2007o">line@疾管家</a> by DeepQ
 
 {% include footer.html %}
