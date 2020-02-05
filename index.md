@@ -6,7 +6,7 @@ image: og.jpg
 歡迎您運用以下社群朋友開發的應用界面，了解即時的口罩供需情況：
 
 <a href="https://mask.goodideas-studio.com/"><img max-height="500px" max-width="500px" src="https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_75d80589edb4e4c8fc0c5a0cfe402f5e"></a>
-### <a href="https://mask.goodideas-studio.com/">口罩地圖</a> by GDG @ 好想工作室
+### <a href="https://mask.goodideas-studio.com/">口罩地圖 by GDG @ 好想工作室</a>
 
 ---
 
