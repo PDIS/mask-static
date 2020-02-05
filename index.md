@@ -6,12 +6,12 @@ image: og.jpg
 歡迎您運用以下社群朋友開發的應用界面，了解即時的口罩供需情況：<br>
 （ℹ️ 口罩的取得須依政府頒布的規則辦理。）
 
-<a href="https://mask.goodideas-studio.com/"><img max-height="500px" max-width="500px" src="img/gdg.jpg"></a>
+<a href="https://mask.goodideas-studio.com/"><picture><source type="image/webp" srcset="img/gdg.webp" /><source type="image/jpeg" srcset="img/gdg.jpg" /><img src="img/gdg.jpg" /></picture></a>
 ### <a href="https://mask.goodideas-studio.com/">口罩地圖 by GDG @ 好想工作室</a>
 
 ---
 
-<a href="https://kuro.tw/mask-map/"><img max-height="500px" max-width="500px" src="img/leaflet.jpg"></a>
+<a href="https://kuro.tw/mask-map/"><picture><source type="image/webp" srcset="img/leaflet.webp" /><source type="image/jpeg" srcset="img/leaflet.jpg" /><img src="img/leaflet.jpg" /></picture></a>
 ### <a href="https://kuro.tw/mask-map/">Leaflet map with 藥局資料</a> by kuro
 
 ---
