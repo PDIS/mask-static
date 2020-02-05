@@ -67,6 +67,6 @@ image: og.jpg
 
 ---
 
-# <a href="https://page.line.me/vqv2007o">疾管署LINE@「疾管家」</a> by DeepQ
+# <a href="https://page.line.me/taiwancdc">疾管署LINE@「疾管家」</a> by DeepQ
 
 {% include footer.html %}
