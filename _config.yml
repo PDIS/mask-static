@@ -1,7 +1,7 @@
 lang: zh-TW
 url: https://mask.pdis.nat.gov.tw
 show_downloads: false
-title: 口罩供需資訊平台
+title: 口罩供需資訊平台 - maskpdis
 theme: jekyll-theme-modernist
 github:
   is_project_page: false
