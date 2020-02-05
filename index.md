@@ -54,4 +54,10 @@ image: og.jpg
 
 ---
 
+# <a href="https://yasco.com.tw/tw/mask.asp">口罩供需即時資訊查詢</a> by 昭惠實業股份有限公司
+
+---
+
+# <a href="https://line.me/ti/p/@kin5669r">高雄金城武 (Line ChatBot)</a> by Daniel Wang
+
 {% include footer.html %}
