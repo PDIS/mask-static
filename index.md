@@ -53,6 +53,5 @@ image: og.jpg
 # <a href="https://map.code6421.cc/">口罩地圖（目前位置半徑 5 公里的點）</a> by code6421
 
 ---
----
 
 {% include footer.html %}
