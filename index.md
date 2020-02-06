@@ -147,13 +147,6 @@ image: og.jpg
 
 # <a href="https://findmasks.geo.com.tw/">FindMasks.GEO</a> by 巨鷗跨界創新聯盟
 
----
-
-# <a href="https://lin.ee/hBLv58H">[口罩狀況地圖 LineBot]</a> by 究心公益科技
-# <a href="https://geobingan.info/event/mask">[口罩狀況地圖 Web ]</a> by 究心公益科技
-
----
-
 # <a href="https://line.me/ti/p/@997uqxua">搶先罩 (Line Bot)</a> by Mavis -兒-
 
 ---
