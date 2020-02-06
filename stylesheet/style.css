@@ -20,6 +20,47 @@ font-weight: bold;
 .title-text{
 font-size: 1.25rem;
 }
+@media (max-width: 440px) {
+  .title-h1{
+    font-size: 1.8rem;
+    }
+    
+    .title-text{
+    font-size: 0.9rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+  .title-h1{
+    font-size: 1.6rem;
+    }
+    
+    .title-text{
+    font-size: 0.8rem;
+    }
+  
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+  .title-h1{
+    font-size: 2.2rem;
+    }
+    
+    .title-text{
+    font-size: 1.1rem;
+    }
+  
+}
+
+.btn-text{
+  font-size: 1.1rem;
+}
+
+@media (min-width: 768px) and (max-width: 995px){
+  .btn-text{
+    font-size: 0.75rem;
+  }
+}
 
 .green-text{
   font-size: 1.2rem;
