@@ -18,7 +18,7 @@ image: og.jpg
 ---
 
 <a href="https://line.naver.jp/ti/p/@592zrdyn"><img max-height="500px" max-width="500px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6AQAAAACgl2eQAAABrElEQVR42u2ZS47DMAxDBfgAOZKv7iPlAAE8Iimn6fwWg1mEQIIUcJzXhSqTkt2Yv18jHuABHuBvwIi8tnHkjcFse2AQ4QXkB2+3eURPgHDNGwEZVAI5ansCiDofY3MEZgMQLaPbuzWgAWYMgbXkah7k92vy1sBL/uf9kz/cFyjTVaYk/++8+u6A5I8E7eUDEf24hOkAjPQuaJ/yP8vKdck5AHjFBTYUI6wgPTm6FZDeCweGdrIsMkfLAYyAqeyEijutIL+C2wpQaAfLesOrjnblVVAsgMpR44AOgJAT8wLONXYwTUicUuYFMLSjIkWy2tuS8wCYIwqfTS9V090AZUpWppSpLHYvIKqgh+axAYkeV39wAEr+KPHjlE+bXoDEwj3I6WDz85bWAEAp6QgTwpmqidcWxQJg7cjd01hNIx7jrYcxAJigUSagjoWGZgWsBcYGXockitoK0JaWOXrJZ7TL72ABzNWoB49KaMLjy+Hh3YHa0laviDRV92sISDuSD5nuCEj1Ko6xve0WLYC5+qu53Dh4Lu0FSP5oS3aGWSbQrYDn36gHeID/Bj4ADtustN1p5qgAAAAASUVORK5CYII="></a>
-### <a href="https://line.naver.jp/ti/p/@960iorjj">還有口罩嗎？ (Line ChatBot)</a> by <a href="https://ericwu.asia/">Eric Wu</a>
+### <a href="https://line.naver.jp/ti/p/@592zrdyn">還有口罩嗎？ (Line ChatBot)</a> by <a href="https://ericwu.asia/">Eric Wu</a>
 
 
 ---
