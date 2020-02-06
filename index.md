@@ -6,13 +6,13 @@ image: og.jpg
 歡迎您運用以下社群朋友開發的應用界面，了解即時的口罩供需情況：<br>
 （ℹ️ 口罩的取得須依政府頒布的規則辦理，<b>手機使用前請開啟定位服務</b>。）
 
-<a href="https://kiang.github.io/pharmacies/"><picture><source type="image/webp" srcset="img/kiang.webp" /><source type="image/jpeg" srcset="img/kiang.jpg" /><img src="img/kiang.jpg" /></picture></a>
-### <a href="https://kiang.github.io/pharmacies/">藥局口罩採購地圖</a> by kiang
+<a href="https://kuro.tw/mask-map/"><picture><source type="image/webp" srcset="img/leaflet.webp" /><source type="image/jpeg" srcset="img/leaflet.jpg" /><img src="img/leaflet.jpg" /></picture></a>
+### <a href="https://kuro.tw/mask-map/">Leaflet map with 藥局資料</a> by kuro
 
 ---
 
-<a href="https://mask.goodideas-studio.com/"><picture><source type="image/webp" srcset="img/gdg.webp" /><source type="image/jpeg" srcset="img/gdg.jpg" /><img src="img/gdg.jpg" /></picture></a>
-### <a href="https://mask.goodideas-studio.com/">即時口罩地圖 by GDG @ 好想工作室</a>
+<a href="https://kiang.github.io/pharmacies/"><picture><source type="image/webp" srcset="img/kiang.webp" /><source type="image/jpeg" srcset="img/kiang.jpg" /><img src="img/kiang.jpg" /></picture></a>
+### <a href="https://kiang.github.io/pharmacies/">藥局口罩採購地圖</a> by kiang
 
 ---
 
