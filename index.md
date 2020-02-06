@@ -56,8 +56,8 @@ image: og.jpg
 
 ---
 
-<a href="https://gogo.com.tw"><img max-height="500px" max-width="500px" src="https://gogo.com.tw/img/app.jpg"></a>
-### <a href="https://gogo.com.tw">口罩地圖 APP</a> by LOOK
+<!--<a href="https://gogo.com.tw"><img max-height="500px" max-width="500px" src="https://gogo.com.tw/img/app.jpg"></a>-->
+# <a href="https://gogo.com.tw">口罩地圖 APP</a> by LOOK
 
 ---
 
@@ -146,6 +146,8 @@ image: og.jpg
 ---
 
 # <a href="https://findmasks.geo.com.tw/">FindMasks.GEO</a> by 巨鷗跨界創新聯盟
+
+---
 
 # <a href="https://line.me/ti/p/@997uqxua">搶先罩 (Line Bot)</a> by Mavis -兒-
 
