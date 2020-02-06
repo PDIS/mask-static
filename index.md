@@ -7,7 +7,7 @@ image: og.jpg
 （ℹ️ 口罩的取得須依政府頒布的規則辦理。）
 
 <a href="https://mask.goodideas-studio.com/"><picture><source type="image/webp" srcset="img/gdg.webp" /><source type="image/jpeg" srcset="img/gdg.jpg" /><img src="img/gdg.jpg" /></picture></a>
-### <a href="https://mask.goodideas-studio.com/">口罩地圖 by GDG @ 好想工作室</a>
+### <a href="https://mask.goodideas-studio.com/">即時口罩地圖 by GDG @ 好想工作室</a>
 
 ---
 
