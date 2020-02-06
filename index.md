@@ -20,6 +20,14 @@ image: og.jpg
 <a href="https://masks.sunfarplus.com.tw"><picture><source type="image/webp" srcset="img/mask-finder.webp" /><source type="image/jpeg" srcset="img/mask-finder.jpg" /><img src="img/mask-finder.jpg" /></picture></a>
 ### <a href="https://masks.sunfarplus.com.tw">找口罩 Mask Finder</a> by 順發 SUNFAR+
 
+
+---
+
+### <a href="https://geothings.tw"> 究心公益科技 </a> LineBot + Web 的口罩數量查詢與狀況回報工具
+### <a href="https://geobingan.info/event/mask"> 口罩狀況地圖 (網頁) </a> 地圖 Cluster 的數字是口罩數量
+### <a href="https://lin.ee/hBLv58H"> 口罩狀況地圖 (LineBot) </a>  可用於購買狀況回報
+### <a href="https://youtu.be/7sag5ShgvFg">  口罩狀況地圖LineBot使用情境介紹 (YouTube Video) </a> by 究心公益科技 (GeoThings)
+
 ---
 
 <a href="https://line.naver.jp/ti/p/@592zrdyn"><img max-height="500px" max-width="500px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6AQAAAACgl2eQAAABrElEQVR42u2ZS47DMAxDBfgAOZKv7iPlAAE8Iimn6fwWg1mEQIIUcJzXhSqTkt2Yv18jHuABHuBvwIi8tnHkjcFse2AQ4QXkB2+3eURPgHDNGwEZVAI5ansCiDofY3MEZgMQLaPbuzWgAWYMgbXkah7k92vy1sBL/uf9kz/cFyjTVaYk/++8+u6A5I8E7eUDEf24hOkAjPQuaJ/yP8vKdck5AHjFBTYUI6wgPTm6FZDeCweGdrIsMkfLAYyAqeyEijutIL+C2wpQaAfLesOrjnblVVAsgMpR44AOgJAT8wLONXYwTUicUuYFMLSjIkWy2tuS8wCYIwqfTS9V090AZUpWppSpLHYvIKqgh+axAYkeV39wAEr+KPHjlE+bXoDEwj3I6WDz85bWAEAp6QgTwpmqidcWxQJg7cjd01hNIx7jrYcxAJigUSagjoWGZgWsBcYGXockitoK0JaWOXrJZ7TL72ABzNWoB49KaMLjy+Hh3YHa0laviDRV92sISDuSD5nuCEj1Ko6xve0WLYC5+qu53Dh4Lu0FSP5oS3aGWSbQrYDn36gHeID/Bj4ADtustN1p5qgAAAAASUVORK5CYII="></a>
