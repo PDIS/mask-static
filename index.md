@@ -51,8 +51,8 @@ image: og.jpg
 
 ---
 
-<a href="http://bit.ly/2RWtFMG"><img max-height="500px" max-width="500px" src="https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_75d80589edb4e4c8fc0c5a0cfe402f5e"></a>
-### <a href="http://bit.ly/2RWtFMG">全臺健保特約藥局剩餘口罩數地圖</a> by 瑞竣科技
+<!--<a href="https://bit.ly/2RWtFMG"><img max-height="500px" max-width="500px" src="https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_75d80589edb4e4c8fc0c5a0cfe402f5e"></a>-->
+# <a href="https://bit.ly/2RWtFMG">全臺健保特約藥局剩餘口罩數地圖</a> by 瑞竣科技
 
 ---
 
@@ -153,7 +153,7 @@ image: og.jpg
 
 ---
 
-# <a href="http://line.me/ti/p/@136lwxjn">找口罩 (Line Bot)</a> by 先宏資訊 Andy Hung
+# <a href="https://line.me/ti/p/@136lwxjn">找口罩 (Line Bot)</a> by 先宏資訊 Andy Hung
 
 ---
 
