@@ -4,7 +4,7 @@ image: og.jpg
 {% include head.html %}
 
 歡迎您運用以下社群朋友開發的應用界面，了解即時的口罩供需情況：<br>
-（ℹ️ 口罩的取得須依政府頒布的規則辦理。）
+（ℹ️ 口罩的取得須依政府頒布的規則辦理，手機使用前請開啟定位服務。）
 
 <a href="https://mask.goodideas-studio.com/"><picture><source type="image/webp" srcset="img/gdg.webp" /><source type="image/jpeg" srcset="img/gdg.jpg" /><img src="img/gdg.jpg" /></picture></a>
 ### <a href="https://mask.goodideas-studio.com/">即時口罩地圖 by GDG @ 好想工作室</a>
