@@ -46,6 +46,21 @@ image: og.jpg
 
 ---
 
+<a href="https://t.me/taiwan_mask_bot"><img max-height="500px" max-width="500px" src="https://storage.googleapis.com/botfat.com/user_images/botfat/xinpei/U8767d6c8b2861bb622df329490dae731/jpg-unwr1ava.jpg"></a>
+### <a href="https://t.me/taiwan_mask_bot">Telegram 我 ok 你先領 by</a> by 抗中保台
+
+---
+
+<a href="http://bit.ly/2RWtFMG"><img max-height="500px" max-width="500px" src="https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_75d80589edb4e4c8fc0c5a0cfe402f5e"></a>
+### <a href="http://bit.ly/2RWtFMG">全臺健保特約藥局剩餘口罩數地圖</a> by 瑞竣科技
+
+---
+
+<a href="https://gogo.com.tw"><img max-height="500px" max-width="500px" src="https://gogo.com.tw/img/app.jpg"></a>
+### <a href="https://gogo.com.tw">口罩地圖 APP</a> by LOOK
+
+---
+
 # <a href="https://lin.ee/nT4IBHS"> LINE SPOT #健保特約藥局 查詢 </a> by LINE TW
 
 ---
@@ -87,5 +102,78 @@ image: og.jpg
 ---
 
 # <a href="https://page.line.me/taiwancdc">疾管署LINE@「疾管家」</a> by DeepQ
+
+---
+
+# <a href="https://www.codeburnout.net/">口罩追追追 - 歷史供貨與時段數據顯示(Web)</a> by Evan Lyu
+
+---
+
+# <a href="https://line.me/ti/p/@637bgygh">line@口罩小幫手</a> by Harold
+
+---
+
+# <a href="https://taichunmin.idv.tw/pug/ncov-mask-map.html">武漢肺炎藥局口罩地圖</a> by 和風信使
+
+---
+
+# <a href="https://mask.digitvolunteer.space/">台東縣實名制口罩地圖</a> by 東大數位志工
+
+---
+
+# <a href="https://line.me/R/ti/p/%40280owqcw">口罩咧？</a> by tw developer
+
+---
+
+# <a href="https://findmasks.netlify.com">即時口罩銷售查詢 (LINE Bot)</a> by Ming-jun
+
+---
+
+# <a href="https://line.me/ti/p/@901psggh">防疫機器人(Line ChatBot)</a> by APMIC OpenTalk
+
+---
+
+# <a href="https://mask.kyleyu.dev">口罩資訊</a> by 老K
+
+---
+
+# <a href="http://info.getchee.com/Login/Info">特約藥局及口罩量地圖查詢</a> by getchee Inc.
+
+---
+
+# <a href="https://peter279k.github.io/pharmacy/">我要買口罩</a> by peter279k
+
+---
+
+# <a href="https://findmasks.geo.com.tw/">FindMasks.GEO</a> by 巨鷗跨界創新聯盟
+
+---
+
+# <a href="https://lin.ee/hBLv58H">[口罩狀況地圖 LineBot]</a> by 究心公益科技
+# <a href="https://geobingan.info/event/mask">[口罩狀況地圖 Web ]</a> by 究心公益科技
+
+---
+
+# <a href="https://line.me/ti/p/@997uqxua">搶先罩 (Line Bot)</a> by Mavis -兒-
+
+---
+
+# <a href="http://line.me/ti/p/@136lwxjn">找口罩 (Line Bot)</a> by 先宏資訊 Andy Hung
+
+---
+
+# <a href="https://test.yallvend.com/vendingmap/index.html">台灣藥局口罩數量地圖</a> by 業安科技 Neil
+
+---
+
+# <a href="https://mask.zxcv.today/">口罩地圖</a> by BillWilson@github
+
+---
+
+# <a href="https://www.icloud.com/shortcuts/b6f50351d4464358a81c8f7339bc9d78?fbclid=IwAR1OOev8QoMblDJ5F-G8TihsCohAAWFSVTHMAkyqwA786BdSZM49V9EX5HA">[Siri] 附近的藥局 (直接問Siri 找出最近有口罩庫存的藥局)</a> by 趨勢科技 山姆大叔
+
+---
+
+# <a href="https://hinablue.me/mask_map/">口罩熱區</a> by @hinablue, 閃光洽
 
 {% include footer.html %}
