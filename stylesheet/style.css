@@ -1,4 +1,32 @@
+body {
+  font-family: "微軟正黑體", "Microsoft JhengHei", arial, sans-serif;
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+}
+
 .page-title{
     font-weight: 900;
     padding-bottom: 10px;
+}
+
+.title-h1{
+color: #197C10;
+font-weight: bold;
+}
+
+.title-text{
+font-size: 1.25rem;
+}
+
+.green-text{
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #197C10;
+}
+
+.red-text{
+  color: red;
 }
