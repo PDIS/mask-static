@@ -26,6 +26,10 @@ image: og.jpg
 
 ---
 
+# <a href="https://lin.ee/nT4IBHS"> LINE SPOT #健保特約藥局 查詢 </a> by LINE TW
+
+---
+
 # <a href="https://t.me/TWMaskFindBot">台灣口罩藥局查詢 (Telegram ChatBot)</a> by neo
 
 ---
