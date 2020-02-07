@@ -33,12 +33,6 @@ image: og.jpg
 
 ---
 
-<a href="https://masks.sunfarplus.com.tw">
-  <picture><source type="image/webp" srcset="img/mask-finder.webp" /><source type="image/jpeg" srcset="img/mask-finder.jpg" /><img src="img/mask-finder.jpg" /></picture></a>
-### <a href="https://masks.sunfarplus.com.tw">找口罩 Mask Finder</a> by 順發 SUNFAR+
-
----
-
 <a href="https://line.naver.jp/ti/p/@960iorjj"><img max-height="500px" max-width="500px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6AQAAAACgl2eQAAACLUlEQVR42u2ZPY6DQAyFjSgoOQI3gYshgcTF4CZzBMoponjf82SVkP0ptuFJC0UUJl8xHj0/2xPz35/VLuACLuBfA4an8809Wd/eLA9+49IkBTTuty5zLVd7nZoNr+67GLDa2D33DnTsrNIE9kcUGectCuC8Fyy0S4hCEAg99DhlLJv9JJhzgcisZtvH58c3qXcyEI8NPGqnHspv7yZ2NrC2kVQI4B7f2pny0AKwbex9CBXAA5hZBuVqAXiZze800j7QvXaavxSQK0gB1JIah14zM/8gWgUAST9aSSq8pShOEIVLAc2d9gSpUgUzKij0AHOdtAAecLPiN9/2cKsJFeA1CgUAL6l4AC0fHjDbIf0VgMwDtoq9XDQfA6LIr3VTAaBAE0KB29NIg5cDcKz0qDYWYFTF900MQBZRD0W+VG6dCq8FcL5g3/Go8KFcLSCWUTcXhrJ4w3HI1QCWzC5EUTJ/A39sUQQAOidLekgV6Y+GxPNhnBQAikcZTplJn7xMl61rAUN0INg76xIG8yhJr1EoAOzlYtsI5cajntKXknQ2QKNPpaGjCmBUNT8mKcA58yK9RvOQbw/u0IFIAJ91qSv3MAzgMJgrAGXmDY9CNYI86AG9aQFxe+BRzVcMQc6kQgVwLSD0gIaT11qoRmiNLRo6OSBuX1CSUNzLPcd7FAqA8W4wx31r8Mf5QgAoenjcGaTSkFSuBURmUQq0VFBVWZukgOsPjgu4gAv4C/ABSdoTaZDukMcAAAAASUVORK5CYII="></a>
 ### <a href="https://line.naver.jp/ti/p/@960iorjj">口罩哪裡買 (Line ChatBot)</a> by funtuan
 
