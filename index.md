@@ -168,4 +168,9 @@ image: og.jpg
 
 # <a href="https://hinablue.me/mask_map/">口罩熱區</a> by @hinablue, 閃光洽
 
+---
+
+# <a href="https://www.iyp.com.tw/event/index.html">口罩哪裡買-健保特約藥局查詢</a> by 中華黃頁
+
+---
 {% include footer.html %}
