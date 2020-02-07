@@ -20,12 +20,84 @@
 <meta property="og:image" content="https://mask.pdis.nat.gov.tw/og.jpg" />
 <base target="_blank" />
 
+<style>
+body {
+  font-family: "微軟正黑體", "Microsoft JhengHei", "Helvetica Now Text", "Helvetica Neue", arial, sans-serif;
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+}
+
+.page-title{
+    font-weight: 900;
+    padding-bottom: 10px;
+}
+
+.title-h1{
+color: #197C10;
+font-weight: bold;
+}
+
+.title-text{
+font-size: 1.25rem;
+}
+@media (max-width: 440px) {
+  .title-h1{
+    font-size: 1.8rem;
+    }
+    
+    .title-text{
+    font-size: 0.9rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+  .title-h1{
+    font-size: 1.6rem;
+    }
+    
+    .title-text{
+    font-size: 0.8rem;
+    }
+  
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+  .title-h1{
+    font-size: 2.2rem;
+    }
+    
+    .title-text{
+    font-size: 1.1rem;
+    }
+  
+}
+
+.btn-text{
+  font-size: 1.1rem;
+}
+
+@media (min-width: 768px) and (max-width: 995px){
+  .btn-text{
+    font-size: 0.75rem;
+  }
+}
+
+.green-text{
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #197C10;
+}
+
+.red-text{
+  color: red;
+}
+</style>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="stylesheet/style.css">
     <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
-
+    <link rel="stylesheet" href="bootstrap-4.4.1-dist/css/bootstrap.min.css">
 
     <title>口罩供需資訊平台</title>
   </head>
@@ -267,8 +339,6 @@
     </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
   </body>
 </html>
