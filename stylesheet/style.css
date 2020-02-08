@@ -80,6 +80,10 @@ font-size: 1.25rem;
   color: #197c10 !important; // WCAG contrast ratio: 5.34
 }
 
+.row .btn-outline-success:hover {
+  color: white !important;
+}
+
 /* .divider-green{
   border-width: 1pt;
   border-color: #197C10;
