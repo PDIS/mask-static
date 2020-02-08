@@ -8,6 +8,9 @@
 
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="description" content="健保藥局哪裡有？口罩數量剩多少？歡迎您運用社群朋友開發的應用界面，了解即時的口罩供需情況。" />
+<meta name="theme-color" content="#ffffff" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:creator" content="@TaiwanPDIS" />
@@ -470,6 +473,15 @@
       </div>
     </footer>
     <!-- Optional JavaScript -->
+   <script>if ('serviceWorker' in navigator) {
+     window.addEventListener('load', function() {
+       navigator.serviceWorker.register('/sw.js').then(function(registration) {
+         // Registration was successful
+       }).catch(function(err) {
+         console.log('sw registration failed');
+       });
+     });
+   }</script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   </body>
 </html>
