@@ -75,7 +75,7 @@ font-size: 1.25rem;
   background-color: #197c10 !important; // WCAG contrast ratio: 5.34
 }
 .row .btn-outline-success,
-.row .border-success,
+.row hr.border-success,
 .row .text-success {
   color: #197c10 !important; // WCAG contrast ratio: 5.34
 }
