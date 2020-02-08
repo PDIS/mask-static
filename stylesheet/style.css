@@ -68,7 +68,14 @@ font-size: 1.25rem;
 }
 
 .red-text{
-  color: red;
+  color: #b50707; // WCAG contrast ratio: 7
+}
+
+.card .bg-success {
+  background-color: #197c10 !important; // WCAG contrast ratio: 5.34
+}
+.row .btn-outline-success {
+  color: #197c10; // WCAG contrast ratio: 5.34
 }
 
 /* .divider-green{
