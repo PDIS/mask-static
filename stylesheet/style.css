@@ -88,3 +88,45 @@ font-size: 1.25rem;
   border-width: 1pt;
   border-color: #197C10;
 } */
+
+.gotopbtn{
+  width: 60px;
+  height: 60px;
+  position: fixed;
+  padding-right: 10px;
+  right: 15%;
+  bottom: 102px;
+}
+
+#goToTopBtn{
+  transition: all 0.4s;
+}
+
+svg{
+  margin-top: 4px;
+}
+
+@media(min-width: 768px) and  (max-width: 1400px){
+  .gotopbtn{
+    right: 10%;
+  }
+  
+}
+
+@media(min-width: 540px) and  (max-width: 767px){
+  .gotopbtn{
+    width: 55px;
+    height: 55px;
+    right: 8%;
+  }
+  
+}
+
+@media (max-width: 540px){
+  .gotopbtn{
+    width: 45px;
+    height: 45px;
+    right: 5%;
+  }
+  
+}
