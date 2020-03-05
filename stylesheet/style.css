@@ -75,7 +75,7 @@ font-size: 1.25rem;
   background-color: #197c10 !important; // WCAG contrast ratio: 5.34
 }
 .row .btn-outline-success,
-.row hr.border-success,
+.row hr .border-success,
 .row .text-success {
   color: #197c10 !important; // WCAG contrast ratio: 5.34
 }
@@ -84,10 +84,6 @@ font-size: 1.25rem;
   color: white !important;
 }
 
-/* .divider-green{
-  border-width: 1pt;
-  border-color: #197C10;
-} */
 
 .gotopbtn{
   width: 60px;
