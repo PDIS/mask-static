@@ -72,12 +72,12 @@ font-size: 1.25rem;
 }
 
 .card .bg-success {
-  background-color: #197c10 !important; // WCAG contrast ratio: 5.34
+  background-color: #197c10 !important;
 }
 .row .btn-outline-success,
 .row hr .border-success,
 .row .text-success {
-  color: #197c10 !important; // WCAG contrast ratio: 5.34
+  color: #197c10 !important;
 }
 
 .row .btn-outline-success:hover {
