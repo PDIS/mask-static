@@ -13,7 +13,7 @@ body {
 }
 
 .title-h1{
-color: #197C10;
+color: #28a745;
 }
 
 .title-text{
@@ -64,7 +64,7 @@ font-size: 1.25rem;
 .green-text{
   font-size: 1.2rem;
   font-weight: 600;
-  color: #197C10;
+  color: #28a745;
 }
 
 .red-text{
@@ -72,22 +72,18 @@ font-size: 1.25rem;
 }
 
 .card .bg-success {
-  background-color: #197c10 !important; // WCAG contrast ratio: 5.34
+  background-color: #28a745 !important;// WCAG contrast ratio: 5.34
 }
 .row .btn-outline-success,
-.row hr.border-success,
+.row hr .border-success,
 .row .text-success {
-  color: #197c10 !important; // WCAG contrast ratio: 5.34
+  color: #28a745 !important;// WCAG contrast ratio: 5.34
 }
 
 .row .btn-outline-success:hover {
   color: white !important;
 }
 
-/* .divider-green{
-  border-width: 1pt;
-  border-color: #197C10;
-} */
 
 .gotopbtn{
   width: 60px;
