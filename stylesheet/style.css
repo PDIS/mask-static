@@ -7,67 +7,65 @@ body {
   background-position: center center;
 }
 
-.page-title{
-    font-weight: 900;
-    padding-bottom: 10px;
+.page-title {
+  font-weight: 900;
+  padding-bottom: 10px;
 }
 
-.title-h1{
-color: #28a745;
+.title-h1 {
+  color: #28a745;
 }
 
-.title-text{
-font-size: 1.25rem;
+.title-text {
+  font-size: 1.25rem;
 }
 @media (max-width: 440px) {
-  .title-h1{
+  .title-h1 {
     font-size: 1.8rem;
-    }
-    
-    .title-text{
+  }
+
+  .title-text {
     font-size: 0.9rem;
-    }
+  }
 }
 
-@media (min-width: 768px) and (max-width: 992px){
-  .title-h1{
+@media (min-width: 768px) and (max-width: 992px) {
+  .title-h1 {
     font-size: 1.6rem;
-    }
-    
-    .title-text{
+  }
+
+  .title-text {
     font-size: 0.8rem;
-    }
-  
+  }
 }
 
-@media (min-width: 992px) and (max-width: 1199.98px){
-  .title-h1{
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .title-h1 {
     font-size: 2.2rem;
-    }
-    
-    .title-text{
+  }
+
+  .title-text {
     font-size: 1.1rem;
-    }
-  
+  }
 }
 
-.btn-text{
+.btn-text {
   font-size: 1.1rem;
 }
 
-@media (min-width: 768px) and (max-width: 995px){
-  .btn-text{
+@media (min-width: 768px) and (max-width: 995px) {
+  .btn-text {
     font-size: 0.75rem;
   }
 }
 
-.green-text{
+.green-text {
   font-size: 1.2rem;
   font-weight: 600;
   color: #28a745;
 }
 
-.red-text{
+.red-text {
   color: #b50707; /* WCAG contrast ratio: 7 */
 }
 
@@ -84,8 +82,7 @@ font-size: 1.25rem;
   color: white !important;
 }
 
-
-.gotopbtn{
+.gotopbtn {
   width: 60px;
   height: 60px;
   position: fixed;
@@ -94,35 +91,32 @@ font-size: 1.25rem;
   bottom: 102px;
 }
 
-#goToTopBtn{
+#goToTopBtn {
   transition: all 0.4s;
 }
 
-svg{
+svg {
   margin-top: 4px;
 }
 
-@media(min-width: 768px) and  (max-width: 1400px){
-  .gotopbtn{
+@media (min-width: 768px) and (max-width: 1400px) {
+  .gotopbtn {
     right: 10%;
   }
-  
 }
 
-@media(min-width: 540px) and  (max-width: 767px){
-  .gotopbtn{
+@media (min-width: 540px) and (max-width: 767px) {
+  .gotopbtn {
     width: 55px;
     height: 55px;
     right: 8%;
   }
-  
 }
 
-@media (max-width: 540px){
-  .gotopbtn{
+@media (max-width: 540px) {
+  .gotopbtn {
     width: 45px;
     height: 45px;
     right: 5%;
   }
-  
 }
